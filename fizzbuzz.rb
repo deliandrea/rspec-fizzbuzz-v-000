@@ -8,6 +8,8 @@ def fizzbuzz (int)
   else  int % 5 == 0
       "Buzz"
 
+else int % 5 == 0 && int % 3 == 0
+
 
     end
 
